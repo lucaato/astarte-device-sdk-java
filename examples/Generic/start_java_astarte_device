@@ -1,0 +1,6 @@
+#!/bin/bash
+
+../../gradlew r --args="-d YPaEbDNiRLCYx4wkvktwsg \
+-t eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2ODY5MDY0NTUsImFfcGEiOlsiLio6Oi4qIl19.yEDjIAD-Y0WJ91xAT5L8dheirjXbXPqUKBse8TfmZIbUbrfVhA1Y1pvq2xt9uq81GZVuL6Ikpr9Jnid2nGbXzg \
+-p http://localhost:4003 \
+-r test"
